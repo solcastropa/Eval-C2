@@ -1,0 +1,70 @@
+body{
+    background-color: rgba(213, 215,218, 0.966);
+    font-family: 'fuente 1';
+}
+#bloc_uno{
+    width: 30%;
+    font-family: 'fuente 2';
+    color: #ffffff;
+    text-align: center;
+}
+
+h1,
+#genero,
+#foto,
+p{
+    text-align: center;
+}
+
+h1, #genero{
+    color: #000000;
+    text-align: center;
+    font-weight: bolder;
+}
+#dc{
+    color:#000000;
+    text-align: center;
+    font-weight: bolder;
+}
+#bloc_uno, div{
+    text-align: center;
+}
+
+#bloc_dos{
+    background-color: #ffffff;
+    width:60%;
+    margin: 000 80px;
+    color: #000000;
+}
+
+#bloc_uno,
+#bloc_dos{
+    background-color: rgba(42, 107, 204);
+    display: inline-block;
+    vertical-align:top;
+}
+#bloc_dos h1{
+    margin-top: 3em;
+    color: #000000;
+    text-align: left;
+}
+#bloc_dos strong{
+    display:block;
+    margin-top: 1em;
+    color:#000000;
+    font-weight: bold;
+}
+
+#bloc_dos p{
+    margin-top: 0.5em ;
+    text-align: left ;
+    color:#ffffff;
+}
+#bloc_dos li{
+    text-align: left;
+    color: #ffffff
+}
+
+#experiencia li{
+    margin-bottom: 20px;
+}
